@@ -1,0 +1,10 @@
+Curling 12 13
+Ginastica 10 19
+Atletismo 15 29
+Boxe 16 10
+Golf 11 29
+Wrestling 5 23
+Rugby 25 31
+Tenis 21 26
+Basquet 6 16
+Badminton 19 3
